@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "test-project-001-df1cb"
+  },
+  "targets": {
+    "test-project-001-df1cb": {
+      "hosting": {
+        "public": [
+          "batman2020"
+        ]
+      }
+    }
   }
 }
